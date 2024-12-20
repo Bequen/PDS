@@ -2,7 +2,7 @@
 
 Simple visualization for PDS course. Shows different algorithms for distributed systems.
 
-[banner.png]
+![Banner](banner.png)
 
 ## Files
 
