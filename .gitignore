@@ -1,0 +1,4 @@
+vgcore.*
+obj/
+distr
+imgui.ini

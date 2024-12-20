@@ -1,0 +1,10 @@
+[submodule "cpp-channel"]
+	path = cpp-channel
+	url = https://github.com/andreiavrammsd/cpp-channel
+[submodule "external/cpp-channel"]
+	path = external/cpp-channel
+	url = https://github.com/andreiavrammsd/cpp-channel
+[submodule "external/imgui"]
+	path = external/imgui
+	url = https://github.com/ocornut/imgui
+	branch = docking
